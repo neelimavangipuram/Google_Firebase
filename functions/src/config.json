@@ -1,0 +1,5 @@
+{
+    "serviceAccount": "./src/certificateKey.json",
+    "databaseURL": "https://projectName.firebaseio.com/",
+    "databaseRootRef": "data"
+}
